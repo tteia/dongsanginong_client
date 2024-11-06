@@ -8,7 +8,7 @@
       <v-btn color="deep_orange">deep_orange</v-btn>
     </v-row>
   </v-container>
-</template>
+</template> 
 
 <script>
 
